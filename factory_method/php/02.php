@@ -1,7 +1,8 @@
 <?php
 
 /*
-Ayuda cuando la construccion de un objeto es Compleja
+Ayuda cuando la construccion de un objeto es Compleja, y que atraves de otra clase
+se delegue la responsabilidad de ensamblar el metodo
 */
 
 class Computer{
